@@ -1,0 +1,6 @@
+{
+  "name": "diClipin",
+  "description": "AI Video Repurposing Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
